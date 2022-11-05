@@ -83,7 +83,7 @@ void inOrder(BinaryTreeNode<int>* root) {
 }
 
 void printLevelATNewLine(BinaryTreeNode<int>* root) {
-    queue<BinaryTreeNode<int>*> q;
+    std::queue<BinaryTreeNode<int>*> q;
     q.push(root);
     q.push(NULL);
     while (!q.empty()) {
@@ -93,7 +93,7 @@ void printLevelATNewLine(BinaryTreeNode<int>* root) {
             if (q.empty()) {
                 break;
             }
-            std::cout << endl;
+            std::cout << '\n';
             q.push(NULL);
             continue;
         }
