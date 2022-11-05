@@ -13,6 +13,11 @@ public:
         this->left = nullptr;
         this->right = nullptr;
     }
+
+    ~BinaryTreeNode() {
+        delete this->left;
+        delete this->right;
+    }
 };
 
 BinaryTreeNode<int>* takeInput() {

@@ -8,4 +8,10 @@ public:
         this->data = data;
         this->next = nullptr;
     }
+
+    ~Node() {
+        if (next) {
+            delete this->next;
+        }
+    }
 };
