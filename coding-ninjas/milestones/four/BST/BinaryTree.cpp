@@ -93,11 +93,11 @@ void printLevelATNewLine(BinaryTreeNode<int>* root) {
             if (q.empty()) {
                 break;
             }
-            cout << endl;
+            std::cout << endl;
             q.push(NULL);
             continue;
         }
-        cout << first->data << " ";
+        std::cout << first->data << " ";
         if (first->left != NULL) {
             q.push(first->left);
         }
