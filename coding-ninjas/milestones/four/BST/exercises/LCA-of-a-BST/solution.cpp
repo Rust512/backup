@@ -15,7 +15,7 @@ inline int encode(int left, const int val, int right) {
     if (left > right) swap(left, right);
 
     if (val < left) return -1;
-    else if ((val == left) && (val == right) && (val > left && val < right)) return 0;
+    else if ((val == left) || (val == right) || (val > left && val < right)) return 0;
     else return 1;
 }
 
