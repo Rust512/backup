@@ -83,6 +83,7 @@ void inOrder(BinaryTreeNode<int>* root) {
 }
 
 void printLevelATNewLine(BinaryTreeNode<int>* root) {
+    if (root == nullptr) return;
     std::queue<BinaryTreeNode<int>*> q;
     q.push(root);
     q.push(NULL);
