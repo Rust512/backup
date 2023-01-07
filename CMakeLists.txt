@@ -19,4 +19,4 @@ add_executable(backup
         coding-ninjas/milestones/four/BST/find-path-in-BST/solution.cpp
         coding-ninjas/milestones/four/BST/implement-BST/solution.cpp
         coding-ninjas/milestones/four/BST/BinaryTree.cpp
-        coding-ninjas/milestones/four/BST/LinkedList.cpp)
+        coding-ninjas/milestones/four/BST/LinkedList.cpp coding-ninjas/milestones/five/trie/auto-complete/solution.cpp coding-ninjas/milestones/five/trie/palindrome-pair/solution.cpp coding-ninjas/milestones/five/trie/trie.cpp)

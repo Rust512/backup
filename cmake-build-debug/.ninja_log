@@ -1,0 +1,20 @@
+# ninja log v5
+1	1564	1672938432097162307	CMakeFiles/backup.dir/code-chef/starters/64/broken-string/solution.cpp.o	fc8086fef140bb4c
+0	1732	1672938432265156500	CMakeFiles/backup.dir/code-chef/starters/64/luigi-and-uniformity/solution.cpp.o	89f9b533858fdbf8
+2	1964	1672938432497148480	CMakeFiles/backup.dir/code-chef/starters/64/distinct-colors/solution.cpp.o	dc9238b6e6e74746
+1732	3237	1672938433773104408	CMakeFiles/backup.dir/code-chef/starters/64/range-assign/solution.cpp.o	1bf42c3431d18505
+1566	3652	1672938434185090193	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BST-from-sorted-array/solution.cpp.o	fad7c244bc133bb1
+1966	4227	1672938434761070336	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BST-to-sorted-linked-list/solution.cpp.o	e417afc26b21a5aa
+3237	5264	1672938435797034658	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/create-and-insert-duplicate-node/solution.cpp.o	25190cdca82e485d
+3652	5649	1672938436181021446	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/largest-BST/solution.cpp.o	5ae79c30c29ea4c7
+4227	6240	1672938436773001091	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-binary-tree/solution.cpp.o	51bdefd505503b8c
+5264	7278	1672938437812965371	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-BST/solution.cpp.o	a91d82c1c8281fe3
+5649	8300	1672938438832930386	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/pair-sum-binary-tree/solution.cpp.o	50162a53ac13a2aa
+6241	8322	1672938438852929700	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/replace-with-sum-of-greater-nodes/solution.cpp.o	cb40a444adf98ded
+7278	9448	1672938439980891066	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/find-path-in-BST/solution.cpp.o	9daf1c2b609c232c
+8322	10218	1672938440748864801	CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/auto-complete/solution.cpp.o	1e466d5c4130842
+10218	10278	1672938440812862613	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/LinkedList.cpp.o	958460536926010d
+8300	10407	1672938440940858235	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/implement-BST/solution.cpp.o	ed615e563d94b205
+9449	11310	1672938441844827358	CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BinaryTree.cpp.o	bb9c41685493edbc
+10407	12039	1672938442572802521	CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/trie.cpp.o	890aafcece14db
+10280	12122	1672938442656799656	CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/palindrome-pair/solution.cpp.o	e15a0d5a9c3b1b81
