@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0e5e52d-16d4-4929-a03b-efa16366d5fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../rat-maze/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rat-maze/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rat-maze/solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/.cmake/api/v1/reply/cache-v2-2f06e641cd8fa26d6e53.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-af8c7a5bed5ca305572b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-704b5fce0858e5bea99f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/.cmake/api/v1/reply/index-2023-01-05T16-47-38-0825.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/.cmake/api/v1/reply/target-backup-Debug-4596e2e913ba99d0f45a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/broken-string/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/broken-string/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/distinct-colors/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/distinct-colors/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/luigi-and-uniformity/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/luigi-and-uniformity/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/range-assign/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/code-chef/starters/64/range-assign/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/auto-complete/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/auto-complete/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/palindrome-pair/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/palindrome-pair/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/trie.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/five/trie/trie.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BST-from-sorted-array/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BST-from-sorted-array/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BST-to-sorted-linked-list/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BST-to-sorted-linked-list/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BinaryTree.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/BinaryTree.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/LinkedList.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/LinkedList.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-BST/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-BST/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-binary-tree/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-binary-tree/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/create-and-insert-duplicate-node/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/create-and-insert-duplicate-node/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/largest-BST/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/largest-BST/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/pair-sum-binary-tree/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/pair-sum-binary-tree/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/replace-with-sum-of-greater-nodes/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/exercises/replace-with-sum-of-greater-nodes/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/find-path-in-BST/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/find-path-in-BST/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/implement-BST/solution.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/backup.dir/coding-ninjas/milestones/four/BST/implement-BST/solution.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../code-chef/starters/64/broken-string/solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../code-chef/starters/64/broken-string/solution.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KgFGOXkIeVAbtcWU8hJIRRUQEf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/devang/codespace/backup/coding-ninjas/milestones/five/backtracking/n-queens",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="solution.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="n-queens" TARGET_NAME="solution.cpp" CONFIG_NAME="solution.cpp">
+      <option name="sourceFile" value="solution.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0e5e52d-16d4-4929-a03b-efa16366d5fb" name="Changes" comment="" />
+      <created>1674388223129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674388223129</updated>
+      <workItem from="1674388224498" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

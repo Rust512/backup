@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="backup"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/devang/codespace/backup/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="backup">
+				<Option output="/home/devang/codespace/backup/cmake-build-debug/backup" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devang/codespace/backup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 backup"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="backup/fast">
+				<Option output="/home/devang/codespace/backup/cmake-build-debug/backup" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/devang/codespace/backup/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 backup/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/devang/codespace/backup/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/devang/codespace/backup/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/devang/codespace/backup/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/devang/codespace/backup/code-chef/starters/64/broken-string/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/code-chef/starters/64/distinct-colors/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/code-chef/starters/64/luigi-and-uniformity/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/code-chef/starters/64/range-assign/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/five/backtracking/n-queens/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/five/trie/auto-complete/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/five/trie/palindrome-pair/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/five/trie/trie.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/BST-from-sorted-array/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/BST-to-sorted-linked-list/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/BinaryTree.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/LinkedList.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-BST/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/exercises/LCA-of-a-binary-tree/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/exercises/create-and-insert-duplicate-node/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/exercises/largest-BST/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/exercises/pair-sum-binary-tree/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/exercises/replace-with-sum-of-greater-nodes/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/find-path-in-BST/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/coding-ninjas/milestones/four/BST/implement-BST/solution.cpp">
+			<Option target="backup"/>
+		</Unit>
+		<Unit filename="/home/devang/codespace/backup/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

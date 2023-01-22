@@ -15,7 +15,8 @@ void initIO() {
 void solve() {
     int n; cin >> n;
     string s; cin >> s;
-    string left = s.substr(0, n/2), right = s.substr(n/2);
+    string left = s.substr(0, n/2);
+    string right = s.substr(n/2);
     cout << (left == right ? "YES\n" : "NO\n");
 }
 
