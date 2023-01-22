@@ -20,9 +20,8 @@ public:
     explicit SudokuGrid():
             grid(vector<vector<int>>(N, vector<int>(N))) {
         for (int i = 0; i < N; i++) {
-            string row; cin >> row;
-            for (int j = 0; j < row.length(); j++) {
-                grid.at(i).at(j) = row.at(j) - '0';
+            for (int j = 0; j < N; j++) {
+                cin >> grid.at(i).at(j);
             }
         }
     }
@@ -102,7 +101,7 @@ public:
     void printSolution() const {
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
-                cout << grid.at(i).at(j);
+                cout << grid.at(i).at(j) << ' ';
             }
             cout << endl;
         }
