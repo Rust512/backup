@@ -12,11 +12,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6c0bd9c-2241-42b1-811c-81bdca1daf69" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solution.cpp" beforeDir="false" />
+    <list default="true" id="66f66ade-d32c-4c1b-9c3d-3fce529bc03d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../memoization/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/.idea/memoization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../memoization/solution.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solution.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../solution.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +45,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Kr5rxtDgD7LSc2ZIcEwAJmRget" />
+  <component name="ProjectId" id="2KrH9JZ2dCRJwlc0eALtqCxW4zS" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,13 +56,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/devang/codespace/backup/coding-ninjas/milestones/five/dynamic-programming-2/edit-distance",
+    "last_opened_file_path": "/home/devang/codespace/backup/coding-ninjas/milestones/five/dynamic-programming-2/edit-distance/memoization",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,7 +73,7 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="solution.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="edit-distance" TARGET_NAME="solution.cpp" CONFIG_NAME="solution.cpp">
+    <configuration name="solution.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="recursion" TARGET_NAME="solution.cpp" CONFIG_NAME="solution.cpp">
       <option name="sourceFile" value="solution.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
@@ -65,12 +83,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c6c0bd9c-2241-42b1-811c-81bdca1daf69" name="Changes" comment="" />
-      <created>1674720063400</created>
+      <changelist id="66f66ade-d32c-4c1b-9c3d-3fce529bc03d" name="Changes" comment="" />
+      <created>1674725628903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1674720063400</updated>
-      <workItem from="1674720064540" duration="2784000" />
+      <updated>1674725628903</updated>
+      <workItem from="1674725630072" duration="694000" />
     </task>
     <servers />
   </component>

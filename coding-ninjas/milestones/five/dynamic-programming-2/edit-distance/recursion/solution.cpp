@@ -13,10 +13,8 @@ void initIO() {
 }
 
 int editDistance(string s1, string s2) {
-    if (s1.empty()) {
-        return (int) s2.length();
-    } else if (s2.empty()) {
-        return (int) s1.length();
+    if (s1.empty() || s2.empty()) {
+        return (int) max(s1.size(), s2.size());
     }
 
     if (s1.at(0) == s2.at(0)) {
