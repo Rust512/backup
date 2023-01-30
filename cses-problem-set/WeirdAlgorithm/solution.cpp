@@ -1,31 +1,36 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
+ 
+#define ll long long
+ 
 using namespace std;
-
+ 
 void initIO() {
     ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     cout.tie(nullptr);
+ 
 #ifndef ONLINE_JUDGE
-    std::freopen("./input.txt", "r", stdin);
-    std::freopen("./output.txt", "w", stdout);
+    freopen("./input.txt", "r", stdin);
+    freopen("./output.txt", "w", stdout);
 #endif
 }
-
-int main() {
-    initIO();
-    int n; cin >> n;
-
-    while (n != 1) {
-        cout << n << ' ';
-        if (n % 2 == 0) {
-            n /= 2;
+ 
+void solve() {
+    ll n; cin >> n;
+    while (n != 1L) {
+        printf("%lld ", n);
+        if (n % 2L == 0) {
+            n /= 2L;
         } else {
-            n *= 3;
+            n *= 3L;
             n++;
         }
     }
-    cout << 1 << endl;
-
+    printf("1\n");
+}
+ 
+int main() {
+    initIO();
+    solve();
     return 0;
 }
