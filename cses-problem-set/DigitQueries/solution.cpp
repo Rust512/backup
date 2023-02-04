@@ -72,14 +72,6 @@ void solve() {
 
         cout << theNumber % 10 << endl;
     }
-    
-    /*
-    int n = 1234, d = 4, k = 2;
-    while (--d != k) {
-        n /= 10;
-    }
-    cout << n % 10;
-    */
 }
  
 int main() {
