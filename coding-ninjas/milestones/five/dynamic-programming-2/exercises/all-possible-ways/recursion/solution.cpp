@@ -47,6 +47,7 @@ int main() {
     int a, b;
     cin >> a >> b;
     cout << getAllWays(a, b);
+    
 //    cout << pow(a, b);
     return 0;
 }
