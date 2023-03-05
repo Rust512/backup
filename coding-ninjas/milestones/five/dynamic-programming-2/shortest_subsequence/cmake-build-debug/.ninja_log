@@ -1,0 +1,9 @@
+# ninja log v5
+1	631	1678023156136742291	CMakeFiles/shortest_subsequence.dir/main.cpp.o	a0de9a525356aa9d
+632	728	1678023156233268195	shortest_subsequence	3e4c4121ac5263c9
+1	500	1678023506164961774	CMakeFiles/shortest_subsequence.dir/main.cpp.o	a0de9a525356aa9d
+500	598	1678023506264927733	shortest_subsequence	3e4c4121ac5263c9
+0	362	1678024689812816406	CMakeFiles/shortest_subsequence.dir/main.cpp.o	a0de9a525356aa9d
+362	451	1678024689900772403	shortest_subsequence	3e4c4121ac5263c9
+1	481	1678027075592692647	CMakeFiles/shortest_subsequence.dir/main.cpp.o	a0de9a525356aa9d
+481	580	1678027075688607854	shortest_subsequence	3e4c4121ac5263c9
